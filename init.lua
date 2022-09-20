@@ -1,0 +1,7 @@
+require("packages")
+require("settings")
+require("theme")
+require("keymap")
+require("plugins")
+require("lsp")
+require("commands")
